@@ -4,5 +4,6 @@ dist/
 .env.*
 !.env.example
 uploads/
+backups/
 *.log
 .DS_Store
